@@ -1,0 +1,4 @@
+EwsReadiness-*.csv
+EwsReadiness-*.html
+*.csv
+!exemples/*.csv
